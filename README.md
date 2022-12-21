@@ -33,5 +33,3 @@ Authors-
 <br><br>
 [Ankur Singh](https://www.linkedin.com/in/ankur-singh-83929818b/)
 <br><br>
-License
-This project is licensed under the MIT License.
